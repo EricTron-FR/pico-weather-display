@@ -16,7 +16,7 @@ Real-time weather & air quality display using Raspberry Pi Pico W and SSH1106 OL
 - USB cable (power)
 
 ## Wiring
-in progress
+![Wiring](images/wiring.png)
 
 | Pico Pin | OLED Pin |
 |----------|----------|
