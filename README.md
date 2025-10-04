@@ -18,6 +18,13 @@ Real-time weather & air quality display using Raspberry Pi Pico W and SSH1106 OL
 ## Wiring
 in progress
 
+| Pico Pin | OLED Pin |
+|----------|----------|
+| GP0 (SDA)| SDA      |
+| GP1 (SCL)| SCL      |
+| 3.3V     | VCC      |
+| GND      | GND      |
+
 ## Installation
 1. Install MicroPython firmware
 2. Clone this repo
