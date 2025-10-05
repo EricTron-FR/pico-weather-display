@@ -40,4 +40,5 @@ Change city by modifying lat/lon...
 MIT
 
 ## 3D Printable Case
-Available on MakerWorld: inprogress
+Available on MakerWorld: ![Here]([images/pipico.png](https://makerworld.com/fr/models/1857940-case-for-raspberry-pi-pico-ssh1106-oled-display#profileId-1986803))
+
