@@ -29,7 +29,7 @@ Real-time weather & air quality display using Raspberry Pi Pico W and SSH1106 OL
 
 ## Installation
 1. Install MicroPython firmware
-2. Clone this repo
+2. Clone this repo or take the code
 3. Edit `main.py`: configure WiFi
 4. Upload to Pico
 
@@ -40,5 +40,5 @@ Change city by modifying lat/lon...
 MIT
 
 ## 3D Printable Case
-Available on MakerWorld: ![Here]([images/pipico.png](https://makerworld.com/fr/models/1857940-case-for-raspberry-pi-pico-ssh1106-oled-display#profileId-1986803))
+Available on MakerWorld: [Here]([images/pipico.png](https://makerworld.com/fr/models/1857940-case-for-raspberry-pi-pico-ssh1106-oled-display#profileId-1986803))
 
