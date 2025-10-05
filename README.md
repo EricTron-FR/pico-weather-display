@@ -2,6 +2,8 @@
 
 Real-time weather & air quality display using Raspberry Pi Pico W and SSH1106 OLED
 
+![Pico](images/pipico.png)
+
 ## Features
 - Live Paris weather data
 - Air quality monitoring (AQI, PM2.5)
